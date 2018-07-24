@@ -51,4 +51,8 @@ public class salesrecord {
         System.out.println("Tax Code:" + taxcode.toUpperCase());
         System.out.println("Total Amount Due: $" + total);
     }
+
+    public static void returnanswer(){
+
+    }
 }
